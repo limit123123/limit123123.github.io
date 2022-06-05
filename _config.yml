@@ -3,7 +3,7 @@ title: Just For Daily Record
 SEOTitle: john's blog
 header-img: img/bg.jpg
 email: 1029930857@qq.com
-description: "Stay hungry."
+description: "wechat(bj-caubjut-newstart)"
 keyword: "JOHN's blog, iOS, Apple, iPhone all can visit"
 url: "http://limit123123.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/limit123123/limit123123.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Good luck 2021!"
+sidebar-about-description: "Good luck 2022!"
 sidebar-avatar: /img/rabbit.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
