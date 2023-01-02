@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:     关于我-project需求联系我
-subtitle:  goal
+title:      Project needs to contact me.
+subtitle:  Project needs to contact me.
 date:       2023-1-1
-author:     淘宝:英伦刚强工作室
+author:     Taobao: Yinglun Gangqiang Studio
 header-img: img/bg3.jpg
 catalog: true
 tags:
@@ -23,7 +23,7 @@ You hava any question can email(john2022060616@163.com)
 
 <img src="https://limit123123.github.io/img/ylgq2.png" >
 
-<img src="https://limit123123.github.io/img/ylgq3.png" >
+<img src="https://limit123123.github.io/img/ylgq4.png" >
 
 
 
